@@ -12,13 +12,11 @@
 <section id="technologies">
   <h1>🧑‍💻🔨| My stack technologies</h1>
   
-  <table>
+  <table id="tableone">
   <tr>
     <th>Programming languages</th>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>RDBMS</th>
-    <th>Dev Tools</th>
   </tr>
   <tr>
     <td>
@@ -39,6 +37,14 @@
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />
     </td>
+  </tr>
+</table>
+<table id="tabletwo">
+  <tr>
+    <th>RDBMS</th>
+    <th>Dev Tools</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
@@ -51,3 +57,8 @@
 </table>
 </section>
 
+<section id="statistics">
+  <h1>📈| My statistics</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=Dark"></img>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=Dark}"></img>
+</section>
