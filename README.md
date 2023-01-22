@@ -22,28 +22,30 @@
   </tr>
   <tr>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" alt="Javascript" />
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" alt="Java" />
-      <img src="https://www.php.net/images/logos/new-php-logo.svg" width="70" alt="Php" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"alt="javascript" />
+      <img src="https://img.shields.io/badge/Java-F2F4F9?style=for-the-badge&logo=java" alt="Java" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="phyton" />
     </td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" alt="HTML" />
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" alt="CSS" />
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" width="50" alt="Tailwind" />
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50" alt="Bootstrap" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" alt="React" />
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--8sx8IYNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogreact.com/wp-content/uploads/2020/10/1_htbUdWgFQ3a94PMEvBr_hQ.png%3Fresize%3D750%252C428%26ssl%3D1" width="80" alt="Next" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next" />
+      <img src="https://img.shields.io/badge/astro-F26B00?style=for-the-badge&logo=astro&logoColor=white" alt="astro" />
     </td>
     <td>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50" alt="HTML" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />
     </td>
     <td>
-      <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" width="50" alt="HTML" />
-      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="50" alt="HTML" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" alt="HTML" />
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" alt="HTML" />
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </td>
   </tr>
 </table>
