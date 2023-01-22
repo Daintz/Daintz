@@ -6,11 +6,11 @@
 
 <section id="projects">
   <h1>🚀| My projects</h1>
-  
+  <p>I love expanding my knowledge by creating effective solutions for other people helping their projects have the best possible solution to meet their needs.</p>
 </section>
 
 <section id="technologies">
-  <h1>🧑‍💻🔨| Languages and tools</h1>
+  <h1>🧑‍💻🔨| My stack technologies</h1>
   
   <table>
   <tr>
