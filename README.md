@@ -59,6 +59,6 @@
 
 <section id="statistics">
   <h1>📈| My statistics</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=Dark"></img>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=Dark}"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=dark"></img>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=dark}"></img>
 </section>
