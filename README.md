@@ -1,8 +1,8 @@
-<div id="header"/>
+<header/>
   <img src="https://media.discordapp.net/attachments/554332316227338261/1066745334400827402/image.png" width="1200" alt="Presentation image" />
   <h1>😉| How nice to have you here!</h1>
   <p>I am a frontend web developer who is passionate about what I do. I am from Colombia. I really like the innovation that we can achieve through technology.</p>
-</div>
+</header>
 
 <section id="projects">
   <h1>🚀| My projects</h1>
@@ -60,5 +60,5 @@
 <section id="statistics">
   <h1>📈| My statistics</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=dark"></img>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=dark}"></img>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=dark"></img>
 </section>
