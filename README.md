@@ -1,7 +1,7 @@
 <div id="header"/>
   <img src="https://media.discordapp.net/attachments/554332316227338261/1066745334400827402/image.png" width="1200" alt="Presentation image" />
   <h1>😉| How nice to have you here!</h1>
-  <h3>I am a frontend web developer who is passionate about what I do. I am from Colombia. I really like the innovation that we can achieve through technology.</h3>
+  <p>I am a frontend web developer who is passionate about what I do. I am from Colombia. I really like the innovation that we can achieve through technology.</p>
 </div>
 
 <section id="projects">
