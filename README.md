@@ -12,7 +12,7 @@ In addition to my technical background, I also value clear and effective communi
 
 <section id="projects">
   <h1>🚀| My projects</h1>
-  <p>I love expanding my knowledge by creating effective solutions for other people helping their projects have the best possible solution to meet their needs.</p>
+  <p>I enjoy the opportunity to apply my knowledge and experience in developing effective solutions to help others with their projects. My collaborative approach, problem-solving mindset, and commitment to continuous learning allow me to create high-quality, custom solutions that meet the needs of each project.</p>
 </section>
 
 <section id="technologies">
