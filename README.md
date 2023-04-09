@@ -64,8 +64,8 @@ In addition to my technical background, I also value clear and effective communi
 </section>
 
 <section id="statistics">
-  <p>I am an advocate of continuous learning and always looking to expand my knowledge in new technologies and development approaches.</p>
   <h1>📈| My statistics</h1>
+  <p>I am an advocate of continuous learning and always looking to expand my knowledge in new technologies and development approaches.</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=dark"></img>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=dark"></img>
 </section>
