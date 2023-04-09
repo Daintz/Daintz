@@ -1,7 +1,13 @@
 <header/>
   <img src="https://media.discordapp.net/attachments/554332316227338261/1066745334400827402/image.png" width="1200" alt="Presentation image" />
   <h1>😉| How nice to have you here!</h1>
-  <p>I am a frontend web developer who is passionate about what I do. I am from Colombia. I really like the innovation that we can achieve through technology.</p>
+  <p>I am a web developer. I love using technological innovation as a tool to create creative and functional solutions in the digital world.
+
+With a strong background in web development, I gain extensive experience creating attractive and intuitive user interfaces, which provide an exceptional user experience. I pride myself on providing cutting edge solutions and staying up to date with the latest trends and advancements in technology.
+
+My approach is always collaborative, working strictly with the design and development teams to create websites and web applications that are both visually stunning and functional. I am meticulous in detail and I am committed to creating clean and efficient code.
+
+In addition to my technical background, I also value clear and effective communication and am used to working in multicultural environments. I believe in the importance of collaboration and teamwork to achieve exceptional results..</p>
 </header>
 
 <section id="projects">
