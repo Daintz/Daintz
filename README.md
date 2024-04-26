@@ -1,5 +1,4 @@
 <header/>
-  <img src="https://media.discordapp.net/attachments/554332316227338261/1066745334400827402/image.png" width="1200" alt="Presentation image" />
   <h1>😉| How nice to have you here!</h1>
   <p>I am a passionate web developer with experience creating attractive and functional interfaces. My focus is technological innovation, and I am always up to date with the latest trends. I work collaboratively with design and development teams to create websites and applications that combine visual beauty with efficient functionality. Additionally, I value effective communication and collaboration in multicultural environments.</b></p>
 </header>
